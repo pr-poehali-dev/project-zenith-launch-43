@@ -58,6 +58,11 @@ export default function Hero() {
           <p className="text-xs sm:text-sm font-mono uppercase tracking-[0.15em] text-black/60 mb-2">
             Салон Эксперт · Москва
           </p>
+          <img
+            src="https://cdn.poehali.dev/projects/58c01076-b127-47f5-8f9e-62ad921f3ee7/bucket/fd146a27-f4f9-4622-ab42-86b07b5fd988.jpg"
+            alt="Салон Эксперт"
+            className="w-32 h-32 sm:w-40 sm:h-40 object-contain"
+          />
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-normal leading-[90%] tracking-[-0.03em] text-black mix-blend-exclusion max-w-2xl">
             Профессиональное оборудование для вашего салона
           </h1>
