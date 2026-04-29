@@ -56,7 +56,7 @@ export default function Hero() {
 
         <div className="relative z-10 flex flex-col items-center gap-4 sm:gap-6 text-center">
           <p className="text-xs sm:text-sm font-mono uppercase tracking-[0.15em] text-black/60 mb-2">
-            ООО «Новатэк-Торг» · Москва
+            Салон Эксперт · Москва
           </p>
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-normal leading-[90%] tracking-[-0.03em] text-black mix-blend-exclusion max-w-2xl">
             Профессиональное оборудование для вашего салона
