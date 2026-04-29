@@ -58,7 +58,7 @@ const products = [
     category: "Инструменты и аксессуары",
     description: "Профессиональная машинка для стрижки волос VGR V-001. Мощный мотор, точная регулировка длины, подходит для профессионального использования.",
     features: ["Профессиональный мотор", "Точная регулировка", "Эргономичный корпус", "Полный комплект насадок"],
-    image: "https://images.unsplash.com/photo-1621607512022-6aecc4fed814?w=600&auto=format&fit=crop",
+    image: "https://cdn.poehali.dev/projects/58c01076-b127-47f5-8f9e-62ad921f3ee7/files/1c05690b-6155-43b0-9cc1-6428bf15bb10.jpg",
     badge: "",
   },
   {
@@ -68,7 +68,7 @@ const products = [
     category: "Мебель",
     description: "Белый комод для хранения расходных материалов и инструментов. Вместительные ящики, аккуратный дизайн, впишется в любой интерьер салона.",
     features: ["Несколько ящиков", "Белый цвет", "Прочный корпус", "Простая сборка"],
-    image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&auto=format&fit=crop",
+    image: "https://cdn.poehali.dev/projects/58c01076-b127-47f5-8f9e-62ad921f3ee7/files/deac49b1-8a23-4241-a8f1-edc23435a733.jpg",
     badge: "",
   },
   {
@@ -78,7 +78,7 @@ const products = [
     category: "Мебель",
     description: "Удобный пуфик с встроенным ящиком для хранения. Мягкое сиденье, компактные размеры, подходит для зоны ожидания или рабочего места.",
     features: ["Встроенный ящик", "Мягкое сиденье", "Компактный размер", "Универсальный дизайн"],
-    image: "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=600&auto=format&fit=crop",
+    image: "https://cdn.poehali.dev/projects/58c01076-b127-47f5-8f9e-62ad921f3ee7/files/5ee62b0f-35d6-49e8-a24d-2aaa6ace8e60.jpg",
     badge: "",
   },
   {
@@ -88,7 +88,7 @@ const products = [
     category: "Мебель",
     description: "Профессиональная парикмахерская тележка серого цвета. Несколько полок и отсеков для инструментов, колёса с фиксатором, удобная ручка.",
     features: ["Несколько полок", "Колёса с фиксатором", "Серый цвет", "Прочная конструкция"],
-    image: "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?w=600&auto=format&fit=crop",
+    image: "https://cdn.poehali.dev/projects/58c01076-b127-47f5-8f9e-62ad921f3ee7/files/c82a0556-27a1-4e8b-b115-799fc74fcce4.jpg",
     badge: "",
   },
   {
@@ -98,7 +98,7 @@ const products = [
     category: "Мебель",
     description: "Стильный белый комод NEOWOOD для профессионального салона. Современный дизайн, качественные материалы, просторные ящики.",
     features: ["Современный дизайн", "Качественные материалы", "Просторные ящики", "Белый цвет"],
-    image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&auto=format&fit=crop",
+    image: "https://cdn.poehali.dev/projects/58c01076-b127-47f5-8f9e-62ad921f3ee7/files/c94971ef-750a-47c8-87be-71367cfe9ca9.jpg",
     badge: "",
   },
   {
@@ -108,7 +108,7 @@ const products = [
     category: "Мебель",
     description: "Минималистичная настенная полка EGGER — создаёт эффект «парения». Идеально для зеркал, декора и профессиональных аксессуаров.",
     features: ["Эффект парения", "Материал EGGER", "Лёгкий монтаж", "Минималистичный дизайн"],
-    image: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=600&auto=format&fit=crop",
+    image: "https://cdn.poehali.dev/projects/58c01076-b127-47f5-8f9e-62ad921f3ee7/files/8356aa7f-ec00-49ff-8199-41c65fa1f407.jpg",
     badge: "",
   },
   {
@@ -118,7 +118,7 @@ const products = [
     category: "Инструменты и аксессуары",
     description: "Профессиональный фен для волос VGR с LED-дисплеем. Мощный поток воздуха, ионизация, несколько скоростей и температурных режимов.",
     features: ["LED-дисплей", "Ионизация", "Несколько режимов", "Профессиональная мощность"],
-    image: "https://images.unsplash.com/photo-1522338140262-f46f5913618a?w=600&auto=format&fit=crop",
+    image: "https://cdn.poehali.dev/projects/58c01076-b127-47f5-8f9e-62ad921f3ee7/files/700f03c7-ce1f-45c9-a46d-efd83e748131.jpg",
     badge: "",
   },
   {
@@ -128,7 +128,7 @@ const products = [
     category: "Мебель",
     description: "Круглый журнальный столик в стиле лофт для зоны ожидания салона. Стильный дизайн, прочное основание, металлические элементы.",
     features: ["Стиль лофт", "Круглая столешница", "Металлические ножки", "Прочная конструкция"],
-    image: "https://images.unsplash.com/photo-1567016432779-094069958ea5?w=600&auto=format&fit=crop",
+    image: "https://cdn.poehali.dev/projects/58c01076-b127-47f5-8f9e-62ad921f3ee7/files/d80bf352-166f-4488-a405-6cb720b7c719.jpg",
     badge: "",
   },
   {
@@ -138,7 +138,7 @@ const products = [
     category: "Оборудование",
     description: "Специализированный пылесос Vearto для парикмахерских. Эффективно убирает волосы и мелкий мусор, тихая работа, большой контейнер.",
     features: ["Для волос и мусора", "Тихая работа", "Большой контейнер", "Компактный корпус"],
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&auto=format&fit=crop",
+    image: "https://cdn.poehali.dev/projects/58c01076-b127-47f5-8f9e-62ad921f3ee7/files/b0937b9b-b172-41e5-931f-e5d30ea9a0c6.jpg",
     badge: "",
   },
   {
@@ -148,7 +148,7 @@ const products = [
     category: "Оборудование",
     description: "Профессиональный стерилизатор МИКРОЦИД для инструментов. Надёжная дезинфекция, соответствует санитарным нормам для салонов красоты.",
     features: ["Сертифицированный", "Соответствие СанПиН", "Удобная загрузка", "Индикатор цикла"],
-    image: "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&auto=format&fit=crop",
+    image: "https://cdn.poehali.dev/projects/58c01076-b127-47f5-8f9e-62ad921f3ee7/files/15713aa7-ea17-4687-9c7c-f8385ff793d0.jpg",
     badge: "Профессиональный",
   },
   {
@@ -158,7 +158,7 @@ const products = [
     category: "Мебель",
     description: "Высокий стул мастера Астек с удобной опорой для ног. Регулировка высоты, мягкое сиденье, колёса для лёгкого перемещения.",
     features: ["Опора для ног", "Регулировка высоты", "Мягкое сиденье", "Колёса"],
-    image: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=600&auto=format&fit=crop",
+    image: "https://cdn.poehali.dev/projects/58c01076-b127-47f5-8f9e-62ad921f3ee7/files/f9e726bf-0075-4acf-82a0-cfebc3ce752d.jpg",
     badge: "",
   },
   {
@@ -168,7 +168,7 @@ const products = [
     category: "Инструменты и аксессуары",
     description: "Профессиональный утюжок для волос MZ Titanium в розовом цвете. Титановые пластины, быстрый нагрев, защита волос от перегрева.",
     features: ["Титановые пластины", "Быстрый нагрев", "Защита волос", "Розовый цвет"],
-    image: "https://images.unsplash.com/photo-1522338140262-f46f5913618a?w=600&auto=format&fit=crop",
+    image: "https://cdn.poehali.dev/projects/58c01076-b127-47f5-8f9e-62ad921f3ee7/files/16a5027b-bc41-4c5a-8912-c60f4b3a3749.jpg",
     badge: "",
   },
   {
@@ -178,7 +178,7 @@ const products = [
     category: "Инструменты и аксессуары",
     description: "Удобная подставка для ног, совместимая с парикмахерскими креслами. Регулируемая высота, прочная конструкция, нескользящее основание.",
     features: ["Регулируемая высота", "Совместима с креслами", "Нескользящее основание", "Прочная сталь"],
-    image: "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?w=600&auto=format&fit=crop",
+    image: "https://cdn.poehali.dev/projects/58c01076-b127-47f5-8f9e-62ad921f3ee7/files/1eceeccd-5188-4b9f-ae2b-1f9abb7a4b76.jpg",
     badge: "",
   },
 ]
