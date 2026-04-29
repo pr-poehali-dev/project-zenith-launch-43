@@ -138,7 +138,7 @@ const products = [
     category: "Оборудование",
     description: "Специализированный пылесос Vearto для парикмахерских. Эффективно убирает волосы и мелкий мусор, тихая работа, большой контейнер.",
     features: ["Для волос и мусора", "Тихая работа", "Большой контейнер", "Компактный корпус"],
-    image: "https://cdn.poehali.dev/projects/58c01076-b127-47f5-8f9e-62ad921f3ee7/files/a773f33b-4aff-4194-8440-34c573dd20cd.jpg",
+    image: "https://cdn.poehali.dev/projects/58c01076-b127-47f5-8f9e-62ad921f3ee7/bucket/5960bcd8-249a-4f85-982d-9670624c3650.jpg",
     badge: "",
   },
   {
